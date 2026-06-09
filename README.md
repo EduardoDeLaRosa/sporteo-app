@@ -182,9 +182,7 @@ Este proyecto me ha permitido trabajar con tecnologías utilizadas en entornos p
 
 📧 eduardoodelarosaa@gmail.com
 
-🔗 LinkedIn: *(añadir enlace)*
-
-🔗 Portfolio: *(añadir enlace si tienes)*
+🔗 LinkedIn: *((https://www.linkedin.com/in/eduardo-de-la-rosa-puerto-4a22b6200/))*
 
 ---
 
