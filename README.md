@@ -23,8 +23,7 @@ Sporteo es una aplicación móvil desarrollada para facilitar la creación y par
 
 ## 📸 Capturas de pantalla
 
-
-## 📸 Screenshots
+## 📸 Capturas de pantalla
 
 <table align="center">
 <tr>
@@ -39,37 +38,36 @@ Sporteo es una aplicación móvil desarrollada para facilitar la creación y par
 </td>
 
 <td align="center">
+<img src="docs/home.png" width="180"><br>
+<b>Home</b>
+</td>
+
+<td align="center">
 <img src="docs/explore.png" width="180"><br>
-<b>Actividades</b>
+<b>Explorar</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="docs/selector-mapa.png" width="180"><br>
+<b>Selector Mapa</b>
+</td>
+
+<td align="center">
+<img src="docs/ver-actividad.png" width="180"><br>
+<b>Ver Actividad</b>
 </td>
 
 <td align="center">
 <img src="docs/profile.png" width="180"><br>
 <b>Perfil</b>
 </td>
+
+<td></td>
 </tr>
 </table>
 
-### Login
-![Login](docs/login.png)
-
-### Registro
-![Registro](docs/register.png)
-
-### Home
-![Home](docs/home.png)
-
-### Explorar actividades
-![Explorar](docs/explore.png)
-
-### Selector mapa
-![SelectorMap](docs/selector-mapa.png)
-
-### Ver actividad
-![ViewActivities](docs/ver-actividad.png)
-
-### Perfil
-![Perfil](docs/profile.png)
 
 ---
 
