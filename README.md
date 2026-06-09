@@ -1,4 +1,4 @@
-![Banner](docs/banner-sporteo.png)
+![Banner](docs/banner.jpg)
 🚀 Aplicación móvil para conectar personas a través del deporte.
 # 🏃 Sporteo
 
