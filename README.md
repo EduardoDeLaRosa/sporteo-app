@@ -29,8 +29,17 @@ Sporteo es una aplicación móvil desarrollada para facilitar la creación y par
 ### Registro
 ![Registro](docs/register.png)
 
+### Home
+![Home](docs/home.png)
+
 ### Explorar actividades
 ![Explorar](docs/explore.png)
+
+### Selector mapa
+![SelectorMap](docs/selector-mapa.png)
+
+### Ver actividad
+![ViewActivities](docs/ver-actividad.png)
 
 ### Perfil
 ![Perfil](docs/profile.png)
