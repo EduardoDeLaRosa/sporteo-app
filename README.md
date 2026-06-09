@@ -25,13 +25,13 @@ Sporteo es una aplicación móvil desarrollada para facilitar la creación y par
 
 | Pantalla                  | Captura                                        | Descripción                                                                                                                                                  |
 | ------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Login**                 | <img src="docs/login.png" width="250">         | Permite a los usuarios autenticarse mediante correo electrónico y contraseña, así como acceder a la recuperación de cuenta o al registro de nuevos usuarios. |
-| **Registro**              | <img src="docs/register.png" width="250">      | Formulario de creación de cuenta con validación de datos y selección de localidad mediante autocompletado.                                                   |
-| **Home**                  | <img src="docs/home.png" width="250">          | Pantalla principal de navegación desde la que el usuario accede a las funcionalidades más importantes de la aplicación.                                      |
-| **Explorar actividades**  | <img src="docs/explore.png" width="250">       | Muestra las actividades deportivas disponibles, permitiendo descubrir nuevos eventos organizados por otros usuarios.                                         |
-| **Selector de ubicación** | <img src="docs/selector-mapa.png" width="250"> | Permite seleccionar de forma visual la ubicación exacta donde se desarrollará una actividad deportiva.                                                       |
-| **Detalle de actividad**  | <img src="docs/ver-actividad.png" width="250"> | Muestra toda la información relacionada con una actividad, incluyendo descripción, ubicación y participantes.                                                |
-| **Perfil**                | <img src="docs/profile.png" width="250">       | Permite consultar y editar la información personal del usuario, así como gestionar su imagen de perfil.                                                      |
+| **Login**                 | <img src="docs/login.png" width="300">         | Permite a los usuarios autenticarse mediante correo electrónico y contraseña, así como acceder a la recuperación de cuenta o al registro de nuevos usuarios. |
+| **Registro**              | <img src="docs/register.png" width="300">      | Formulario de creación de cuenta con validación de datos y selección de localidad mediante autocompletado.                                                   |
+| **Home**                  | <img src="docs/home.png" width="300">          | Pantalla principal de navegación desde la que el usuario accede a las funcionalidades más importantes de la aplicación.                                      |
+| **Explorar actividades**  | <img src="docs/explore.png" width="300">       | Muestra las actividades deportivas disponibles, permitiendo descubrir nuevos eventos organizados por otros usuarios.                                         |
+| **Selector de ubicación** | <img src="docs/selector-mapa.png" width="300"> | Permite seleccionar de forma visual la ubicación exacta donde se desarrollará una actividad deportiva.                                                       |
+| **Detalle de actividad**  | <img src="docs/ver-actividad.png" width="300"> | Muestra toda la información relacionada con una actividad, incluyendo descripción, ubicación y participantes.                                                |
+| **Perfil**                | <img src="docs/profile.png" width="300">       | Permite consultar y editar la información personal del usuario, así como gestionar su imagen de perfil.                                                      |
 
 
 
